@@ -1,0 +1,1 @@
+c:\jdk\bin\javac -classpath . theProject.java
